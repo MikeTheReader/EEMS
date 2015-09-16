@@ -1,4 +1,4 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 from os import path
 
 setup(
@@ -16,5 +16,5 @@ setup(
         'Programming Language :: Python :: 2.7'
     ],
     keywords='climate modeling eems',
-    packages=find_packages()
+    packages=['']
 )
