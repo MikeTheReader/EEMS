@@ -16,5 +16,5 @@ setup(
         'Programming Language :: Python :: 2.7'
     ],
     keywords='environment,modeling,eems',
-    packages=find_packages('.', exclude=['setup.py'])
+    packages=['EEMSBasePackage.py']
 )
