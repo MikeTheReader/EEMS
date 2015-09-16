@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 from os import path
 
 setup(
@@ -16,5 +16,5 @@ setup(
         'Programming Language :: Python :: 2.7'
     ],
     keywords='environment,modeling,eems',
-    packages=['']
+    packages=find_packages('', exclude=['setup.py'])
 )
