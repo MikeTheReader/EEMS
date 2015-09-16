@@ -6,15 +6,15 @@ setup(
     version='2.0',
     description='Environmental Evaluation Modeling System',
     url='https://github.com/consbio/EEMS',
-    author='Tim Sheehan, Ph.D',
-    author_email='Tim@consbio.org',
-    license='MIT',
+    author='Tim Sheehan, M.S.',
+    author_email='tim@consbio.org',
+    license='BSD',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
-        'Topic :: Climate Modeling :: Tools',
+        'Topic :: Logic Modeling :: Tools',
         'Programming Language :: Python :: 2.7'
     ],
-    keywords='climate modeling eems',
+    keywords='environment,modeling,eems',
     packages=['']
 )
