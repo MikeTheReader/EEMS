@@ -3,7 +3,7 @@ from os import path
 
 setup(
     name='EEMS',
-    version='2.0.1',
+    version='2.0.2',
     description='Environmental Evaluation Modeling System',
     url='https://github.com/consbio/EEMS',
     author='Tim Sheehan, M.S.',
